@@ -1,0 +1,33 @@
+#container{
+    background-color: rgb(17, 41, 92);
+    margin: 0px auto;
+    padding: 3px;
+    color: white;
+    width: 960px;
+    font-family: sans-serif;
+}
+    .sidebar{
+        background-color: rgb(50, 91, 129);
+    }
+    .sidebar p{
+        display: inline-block;
+        vertical-align: top;
+        color: white;
+        margin: 0px;
+        padding: 5px;
+    }
+    .bodyDiv {
+        background-color: white;
+        color: rgb(50, 91, 129);
+        padding: 2px;
+    }
+    .bottomDiv p {
+        vertical-align: top;
+        color: rgb(50, 91, 129);
+        background-color: white;
+        padding: 2px;
+        margin: 0px;
+        border-top: solid rgb(50, 91, 129);
+        height: 160px;
+
+    }
